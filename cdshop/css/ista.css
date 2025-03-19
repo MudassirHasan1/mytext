@@ -1,0 +1,11 @@
+body {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12pt; font-style: normal; color: #000000;  background-color: #FFFFFF}
+.p-small {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #000000; background-color: #FFFFFF}
+.p-small-gray {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #666666; background-color: #FFFFFF}
+.p-small2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; background-color: #FFFFFF}
+.p-small2-gray {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: gray; background-color: #FFFFFF}
+.hdr1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18pt; color: #000000; background-color: #FFFFFF}
+a:hover {  color: #000000; background-color: #CCCCCC}
+a:active {  color: #000000}
+a:link {  color: #000000}
+a:visited {  color: #000000}
+input.noin { border: 0px; text-align: right; }
